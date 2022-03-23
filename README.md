@@ -1,6 +1,6 @@
 # gateKeeperAutomationTask
 First Task of Codeshake
-This is a website automation project. POM design pattern is used on that project.
+This is a website automation project. 
 
 # Used technologies are:
 Java 
