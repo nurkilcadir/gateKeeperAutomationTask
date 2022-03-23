@@ -5,9 +5,11 @@
     <classes>
       <class name="com.gatekeeper.testcases.GateKeeperTest">
         <methods>
+          <include name="searchTest"/>
           <include name="verifyAddressTest"/>
           <include name="setup"/>
           <include name="tearDown"/>
+          <include name="popUpTest"/>
         </methods>
       </class> <!-- com.gatekeeper.testcases.GateKeeperTest -->
     </classes>
